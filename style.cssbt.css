@@ -1,0 +1,19 @@
+
+
+#map{
+	width: 50%;
+	height: 50%;
+	border-radius: 10px;
+
+
+@media (min-width: 768px)
+	.news-input
+		width: 50% 
+
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
